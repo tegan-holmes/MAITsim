@@ -1,0 +1,16 @@
+In order to match the 'benchmark' test, use the following atmospheric values (for all time intervals) in testing the isotope simulator:
+
+Isotopes in precipitation, 18O: -10 per mil
+Isotopes in precipitation, 2H: -90 per mil
+Air temperature: 15 degrees celsius
+Relative humidity: 88%
+
+In order to match the 'benchmark' test, use the following initial isotope values in testing the isotope simulator:
+
+Surface 18O: -12 per mil
+Ground 18O: -20 per mil
+River 18O: -15 per mil
+
+Surface 2H: -106 per mil
+Ground 2H: -170 per mil
+River 2H: -130 per mil
